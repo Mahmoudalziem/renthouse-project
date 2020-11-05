@@ -21,7 +21,7 @@ npm run Watch
 php artisan serve
 
 
-<p align="center"><img src="https://ibb.co/0FSqQB1.jpg" /></p>
+<p align="center"><img src="https://i.ibb.co/2sQq58R/Whats-App-Image-2020-08-10-at-1-26-50-PM.jpg" /></p>
 
 <p align="center"><img src="https://ibb.co/q0GMGnZ.jpg"></p>
 
